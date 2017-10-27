@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nicklisa/.android/build-cache/b926d384e68a29161857ee205792507fa0fb2fef/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/nicklisa/.android/build-cache/b926d384e68a29161857ee205792507fa0fb2fef/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nicklisa/.android/build-cache/b926d384e68a29161857ee205792507fa0fb2fef/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nicklisa/.android/build-cache/b926d384e68a29161857ee205792507fa0fb2fef/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

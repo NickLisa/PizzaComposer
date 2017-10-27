@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

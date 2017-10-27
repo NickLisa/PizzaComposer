@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pizza Composer</string>
+    <string name="radio_crust_neo">Neapolitan</string>
+    <string name="radio_crust_ny">New York Style</string>
+    <string name="radio_crust_pan">Pan Pizza</string>
+    <string name="radio_crust_deep">Deep Dish</string>
+    <string name="spn_size">Select a Size</string>
+    <string name="picofpizza">Picture of Pizza</string>
+    <string name="btnStart">Start Your Order</string>
+    <string name="btnToppings">Next: Toppings</string>
+    <string-array name="sizes">
+        <item>Personal 8\"</item>
+        <item>Small 10\"</item>
+        <item>Medium 12\"</item>
+        <item>Large 14\"</item>
+        <item>Extra Large 16\"</item>
+    </string-array>
+</resources>

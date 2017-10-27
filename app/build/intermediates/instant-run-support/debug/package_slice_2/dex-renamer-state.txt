@@ -1,0 +1,4 @@
+#Thu Oct 26 12:21:48 EDT 2017
+base.0=/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/build/intermediates/transforms/dexMerger/debug/2
+renamed.0=classes.dex
+file.0=/Users/nicklisa/Google Drive/Android_Projects/PizzaComposer/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex
