@@ -8,11 +8,36 @@
     <string name="picofpizza">Picture of Pizza</string>
     <string name="btnStart">Start Your Order</string>
     <string name="btnToppings">Next: Toppings</string>
+    <string name="txtSpnTopping1">Choose Topping 1</string>
+    <string name="txtSpnTopping2">Choose Topping 2</string>
+    <string name="btnSummary">Summary</string>
+    <string name="txtSumCrust">Crust</string>
+    <string name="txtSumSize">Size</string>
+    <string name="txtSumTop1">Topping 1</string>
+    <string name="txtSumTop2">Topping 2</string>
+    <string name="btnContact">Contact</string>
+    <string name="Contact1">Contact 1: Lovey\'s Pizza, Phone Number: (973)455-0677</string>
+    <string name="Contact2">Contact 2 : Dominos Pizza, Phone Number: (973)984-2900</string>
+    <string name="Contact3">Contact 3: Little Caesars Pizza, Phone Number :(973)674-2999</string>
+    <string name="Contact1img">Contact1img</string>
+    <string name="Contact2img">Contact2img</string>
+    <string name="Contact3img">Contact3img</string>
     <string-array name="sizes">
         <item>Personal 8\"</item>
         <item>Small 10\"</item>
         <item>Medium 12\"</item>
         <item>Large 14\"</item>
         <item>Extra Large 16\"</item>
+    </string-array>
+    <string-array name="toppings">
+        <item>None</item>
+        <item>Pepperoni</item>
+        <item>Sausage</item>
+        <item>Chicken</item>
+        <item>Mushroom</item>
+        <item>Bacon</item>
+        <item>Onion</item>
+        <item>Pineapple</item>
+        <item>Jalapenos</item>
     </string-array>
 </resources>

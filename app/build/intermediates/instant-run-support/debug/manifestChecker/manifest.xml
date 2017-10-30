@@ -30,6 +30,9 @@
         </activity>
         <activity android:name="com.njltech.android.pizzacomposer.crust_size" />
         <activity android:name="com.njltech.android.pizzacomposer.MainActivity" />
+        <activity android:name="com.njltech.android.pizzacomposer.toppings" />
+        <activity android:name="com.njltech.android.pizzacomposer.summary" />
+        <activity android:name="com.njltech.android.pizzacomposer.contact" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
